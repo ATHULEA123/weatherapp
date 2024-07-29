@@ -64,4 +64,12 @@ justify-content: space-between;
     width: 26px;
     margin-top: 10px;
 }
+button{
+    border: none;
+   background-color: transparent;
+}
+
+
+
+
 
